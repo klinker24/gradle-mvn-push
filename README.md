@@ -68,7 +68,7 @@ apply from: 'https://raw.github.com/klinker41/gradle-mvn-push/master/gradle-mvn-
 You can now build and push:
 
 ```bash
-$ gradle clean build uploadArchives
+$ ./gradlew clean build uploadArchives
 ```
 	
 ### Other Properties
