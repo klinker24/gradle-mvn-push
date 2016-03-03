@@ -71,7 +71,7 @@ You can now build and push:
 $ ./gradlew clean build uploadArchives
 ```
 
-### Release
+### 7. Release
 
 Head to the [staging repository](https://oss.sonatype.org/index.html#stagingRepositories) and close the newly uploaded repository, then release it.
 	
