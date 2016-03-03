@@ -70,6 +70,10 @@ You can now build and push:
 ```bash
 $ ./gradlew clean build uploadArchives
 ```
+
+### Release
+
+Head to the [staging repository](https://oss.sonatype.org/index.html#stagingRepositories) and close the newly uploaded repository, then release it.
 	
 ### Other Properties
 
